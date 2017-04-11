@@ -1,0 +1,35 @@
+# 配置足够多的、可能的映射关系，确保 mail from 的正确性
+
+root               my_username@126.com
+daemon             my_username@126.com
+bin                my_username@126.com
+sys                my_username@126.com
+sync               my_username@126.com
+games              my_username@126.com
+man                my_username@126.com
+lp                 my_username@126.com
+mail               my_username@126.com
+news               my_username@126.com
+uucp               my_username@126.com
+proxy              my_username@126.com
+www-data           my_username@126.com
+backup             my_username@126.com
+list               my_username@126.com
+irc                my_username@126.com
+gnats              my_username@126.com
+nobody             my_username@126.com
+systemd-timesync   my_username@126.com
+systemd-network    my_username@126.com
+systemd-resolve    my_username@126.com
+systemd-bus-proxy  my_username@126.com
+sshd               my_username@126.com
+Debian-exim        my_username@126.com
+postgres           my_username@126.com
+mysql              my_username@126.com
+
+
+admin              my_username@126.com
+pgsql              my_username@126.com
+php                my_username@126.com
+nginx              my_username@126.com
+www                my_username@126.com
